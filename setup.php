@@ -23,8 +23,8 @@ $home = <<<'HTML'
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:group {"anchor":"prices","layout":{"type":"constrained"},"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}}} -->
-<div id="prices" class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"textAlign":"center"} -->
+<!-- wp:group {"anchor":"prices","align":"full","layout":{"type":"constrained"},"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}}} -->
+<div id="prices" class="wp-block-group alignfull" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"textAlign":"center"} -->
 <h2 class="wp-block-heading has-text-align-center">Услуги и цены</h2>
 <!-- /wp:heading -->
 
@@ -115,8 +115,8 @@ $home = <<<'HTML'
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"type":"constrained"},"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}}} -->
-<div class="wp-block-group" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"textAlign":"center"} -->
+<!-- wp:group {"align":"full","layout":{"type":"constrained"},"style":{"spacing":{"padding":{"top":"80px","bottom":"80px"}}}} -->
+<div class="wp-block-group alignfull" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"textAlign":"center"} -->
 <h2 class="wp-block-heading has-text-align-center">Отзывы</h2>
 <!-- /wp:heading -->
 

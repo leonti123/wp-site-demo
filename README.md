@@ -1,7 +1,9 @@
 # Сайт на WordPress «Мастер Дом» (демо)
 
 Демо-проект для портфолио: сайт услуг на WordPress, собранный на блоках Gutenberg
-(тема Twenty Twenty-Four). Компания вымышленная.
+(тема Twenty Twenty-Five). Компания вымышленная.
+
+![Превью](preview.jpg)
 
 **Открыть живое демо:** https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/leonti123/wp-site-demo/main/blueprint.json
 

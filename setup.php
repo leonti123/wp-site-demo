@@ -3,8 +3,8 @@
 require_once '/wordpress/wp-load.php';
 
 $home = <<<'HTML'
-<!-- wp:cover {"url":"https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1800&q=70","dimRatio":60,"overlayColor":"contrast","minHeight":620,"align":"full"} -->
-<div class="wp-block-cover alignfull" style="min-height:620px"><span aria-hidden="true" class="wp-block-cover__background has-contrast-background-color has-background-dim-60 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1800&q=70" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":1,"fontSize":"xx-large"} -->
+<!-- wp:cover {"url":"https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1800&q=70","dimRatio":60,"overlayColor":"contrast","minHeight":620,"align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:620px"><span aria-hidden="true" class="wp-block-cover__background has-contrast-background-color has-background-dim-60 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1800&q=70" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":1,"fontSize":"xx-large"} -->
 <h1 class="wp-block-heading has-text-align-center has-xx-large-font-size">Мастер на час — приедем сегодня</h1>
 <!-- /wp:heading -->
 
